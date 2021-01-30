@@ -13,7 +13,9 @@ body{
     background-attachment: scroll;
     background-size: cover;
 }
-
+h2{
+    text-align: center;
+}
 nav{
     height: 50px;
     width: 100%;
@@ -133,15 +135,11 @@ nav ul li a:hover, a.active{
 }
 .receipt{
     margin: 60px auto;
-    width: 35%;
-    height: 500px;
-    background-color: whitesmoke;
-    border: 2px solid purple;
-    border-radius: 10px;
+    width: 30%;
+    height: 550px;
+    background-color: #d4edda;
+    border-radius: 20px;
 }
 .receipt-info{
     padding: 60px;
-}
-h2{
-    text-align: center;
 }
